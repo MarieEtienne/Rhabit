@@ -6,3 +6,4 @@
 ^pkgdown$
 ^\.bib$
 README.Rmd
+^\.github$
