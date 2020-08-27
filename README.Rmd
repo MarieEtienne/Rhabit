@@ -27,7 +27,9 @@ Please cite our work using the following references:
 T Michelot, P Gloaguen, Paul G. Blackwell, Marie-Pierre Etienne 
 
 
-
+ <!-- badges: start -->
+  [![R build status](https://github.com/MarieEtienne/Rhabit/workflows/R-CMD_badge/badge.svg)](https://github.com/MarieEtienne/Rhabit/actions)
+  <!-- badges: end -->
 
 
 
